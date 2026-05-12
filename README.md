@@ -1,2 +1,2 @@
-# opendbuild
+# openbuild
 projet tutorié
